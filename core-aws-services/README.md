@@ -14,14 +14,25 @@
   - Load-balancer
 
 
-# Networking 
 [Networking](Networking/README.md)
-
-# Storage
+- vpc
+- subnet
+- route tables
+- NAT
+- NACL VS Security group
+- VPC Peering
+   
 [storage](storage/README.md)
+- s3 buckets
+- s3 classes
+- versioning
 
-# databases
 [databases](databases/README.md)
 
+- RDS
+- Multi
+- backup retention
+- parameter groups
+- dynamoDB 
 
   
