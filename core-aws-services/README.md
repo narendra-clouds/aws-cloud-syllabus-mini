@@ -1,6 +1,6 @@
 # These are must know for interviws
 
-# compute
+# Compute
 - [EC2-types-and-prising](EC2-types-and-prising/README.md)
 - [launch-templates](launch-templates/README.md)
 - [AMI](AMI/README.md)
