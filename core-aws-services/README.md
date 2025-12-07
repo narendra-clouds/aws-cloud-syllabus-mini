@@ -2,6 +2,6 @@
 
 - [compute](compute/README.md)
 - [Networking](Networking/README.md)
-- [storage]storage/README.md)
+- [storage](storage/README.md)
 - [databases](databases/README.md)
   
